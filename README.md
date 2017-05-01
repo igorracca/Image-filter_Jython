@@ -27,5 +27,5 @@ You can choose to apply an Average or Median filter and see which result will be
 
 # Important
 
-The program reads 10 images with .png extension, named from (1.pgn to 10.png).   
+The program reads 10 images with .png extension, named from 1.pgn to 10.png.   
 If you want to try another pictures, you have to change the number of picures (line 17) and the extension (line 19) whitin `proj1.py`
